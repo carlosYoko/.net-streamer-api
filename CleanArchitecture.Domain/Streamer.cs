@@ -1,6 +1,6 @@
 ﻿namespace CleanArchitecture.Domain
 {
-    internal class Streamer
+    public class Streamer
     {
         public int Id { get; set; }
 
